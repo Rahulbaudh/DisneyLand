@@ -8,14 +8,14 @@ This repository contains the code and analysis for exploring and analyzing Disne
 
 ## Dataset
 
-The dataset used for this analysis is "DisneylandReviews.csv," which contains information about reviews submitted by visitors to Disneyland. The dataset includes columns such as Review_ID, Year_Month, Review_Text, Rating, Branch, and more.
+The dataset used for this analysis is "DisneylandReviews.csv,(https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)" which contains information about reviews submitted by visitors to Disneyland. The dataset includes columns such as Review_ID, Year_Month, Review_Text, Rating, Branch, and more.
 
 ## Project Structure
 
 - **code/**: Contains the Python scripts used for data preprocessing, analysis, and visualization.
   - `disneyland.ipynb`: Jupyter Notebook containing the code for the analysis.
 - **data/**: Includes the dataset file used for analysis.
-  - `DisneylandReviews.csv`: Raw dataset file.
+  - `DisneylandReviews.csv(https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)`: Raw dataset file.
 - **images/**: Contains images generated from the data visualization process.
 - **README.md**: This file provides an overview of the project, dataset, and project structure.
 
